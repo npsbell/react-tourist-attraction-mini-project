@@ -3,7 +3,7 @@
 "The project was created to practice basic React as part of a final project from a Techup bootcamp"
 
 ## 🎐 Getting Started
- - clone the project repository https://github.com/npsbell/react-tourist-mini-project.git
+ - clone the project repository https://github.com/npsbell/react-tourist-attraction-mini-project.git
  
  Set up Server
 
